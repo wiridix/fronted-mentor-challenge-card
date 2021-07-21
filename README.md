@@ -1,13 +1,22 @@
 # Frontend Mentor - Profile card component 
 
-This is the solution to the challenge [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
+Esta es la solución al desafío [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 
-I receive suggestions to improve my code and keep it present in future projects!
+## Proceso
+- HTML5
+- SCSS
 
-## Process
-- Semantic HTML5 markup
-- CSS : SCSS
-- Flexbox
+## Compilando Sass
 
-## Author
+Con sass globalmente:
+```js
+sass --no-source-map ./css/style.scss ./css/style.css
+```
+
+Con Npx:
+```js
+npx sass --no-source-map ./css/style.scss ./css/style.css
+```
+
+## Autor
 - Frontend Mentor [@wiridix](https://www.frontendmentor.io/profile/wiridix)
